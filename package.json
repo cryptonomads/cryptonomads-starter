@@ -1,4 +1,5 @@
 {
+  "name": "cryptonomads-starter",
   "private": true,
   "license": "MIT",
   "husky": {
